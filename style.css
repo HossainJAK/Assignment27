@@ -1,0 +1,35 @@
+.container{
+    width: 90%;
+    margin: 0px auto;
+}
+.banner{
+    width: 100%;
+}
+.carousel-item img{
+    height: 600px;
+}
+#accordionExample{
+    background: rgb(80, 80, 206);
+    width: 85%;
+    margin: 50px auto;
+}
+.Acc{
+    width: 100%;
+}
+.selectsec{
+    padding: 100px 0px;
+}
+.progress{
+    margin-bottom: 15px;
+}
+.footer{
+    padding: 45px 0px;
+    width: 100%;
+    text-align: center;
+    background: gray;
+    
+}
+.footer p{
+    margin-bottom: 0px;
+    color: white;
+}
